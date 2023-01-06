@@ -218,29 +218,4 @@ for title in top_views.index:
 plt.suptitle("My top 10 viewing activity on Netflix", fontsize=20, fontweight=0, color='black', y=1.05)
 plt.tight_layout()
 plt.savefig("viewing activity.png", dpi=300, bbox_inches='tight')
-# plt.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
+plt.show()
